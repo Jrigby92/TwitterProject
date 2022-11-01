@@ -1,0 +1,15 @@
+{
+  "name": "get-tweet-data",
+  "version": "1.0.0",
+  "description": "",
+  "main": "get-tweet-data.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.2.2"
+  }
+}
